@@ -5,7 +5,7 @@
 - 👯 I'm currently learning **Python**, **Java**, **Flutter**
 - 😄 Passionate photographer and 3D artist
 - 📫 Reach me at:
-- Instagram: (@sav_abishek)[https://www.instagram.com/sav_abishek/]
+- Instagram: [@sav_abishek](https://www.instagram.com/sav_abishek)
 - Twitter: <ID>
 - Email: abishekvinodh18@gmail.com
 
